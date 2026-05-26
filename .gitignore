@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Variables de entorno y tokens
+.env
+*.env
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de gran tamaño
+*.zip
+*.xlsx
